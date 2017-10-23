@@ -4,9 +4,8 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
 9-A    | Ayşenur Orak   | 651
+
 # Heronun Çeşmesi
  Yapacağım proje "Heronun Çeşmesi".Birinci yüzyılda yaşayan matematikçi ve fizikçi Heron tarafından icat edilen bir düzenektir.Heron tapınaktaki kapıların otomatik olarak açılıp kapanması için bu mekanizmayı kurmuştur.
  Heron çeşmesinin amacı bir motor veya jeneratör yardımı olmaksızın, sıvıyı bulunduğu yerden daha yukarılara taşımaktır.Bu sistem üst üste duran haznelerin birbirlerine borularla bağlanmasıyla oluşan bir sistemdir. Bu sistem sonsuza dek devir daim yapan bir sistem, sıvı buharlaşmaz veya yok olmaz.Burada su ve hava basıncından yararlanılır.
