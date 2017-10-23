@@ -12,6 +12,7 @@ Sınıf | Öğrenci İsmi  | Numara
  Heronun çeşmesi fizik için gerçekten de harika bir proje.Bu proje su ve yer çekimi ile hava ve sıkıştırma kullanarak nasıl güç sağlayabileceğini gösteriyor.
   Projeyi yaparken parametreleri değiştireceğim ve sonuçlarını karşılaştıp kaydedeceğim.Böylece bir sonuca varacağım.
  Bu projeyi yaparken de pet şişe, pipet, silikon tabancası, makas, matkap ve serum borusu gibi malzemelere gereksinimim var.
+ Nasıl yapacağım ise, aşağıdaki kaynakçada belirtilen videodan yararlanacağım.
  # Kaynakçalar
  1- https://en.wikipedia.org/wiki/Heron%27s_fountain
  
